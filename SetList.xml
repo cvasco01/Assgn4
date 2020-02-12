@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href = "SetListStyle.css"?>
+
+<setlist>
+
+    <song>
+            <title>Excuse Me</title>
+            <artist>A$AP Rocky</artist>
+            <genre>Hip-Hop/Rap</genre>
+            <year>2015</year>
+    </song>
+
+    <song>
+            <title>Elastic</title>
+            <artist>Joey Purp</artist>
+            <genre>Hip-Hop</genre>
+            <year>2018</year>
+    </song>
+
+    <song>
+            <title>BOY BYE</title>
+            <artist>BROCKHAMPTON</artist>
+            <genre>Alternative Hip-Hop</genre>
+            <year>2019</year>
+    </song>
+
+    <song>
+            <title>Safed Musli</title>
+            <artist>MF DOOM</artist>
+            <genre>Hip-Hop</genre>
+            <year>2004</year>
+    </song>
+
+    <song>
+            <title>Crush</title>
+            <artist>Duckwrth</artist>
+            <genre>Hip-Hop</genre>
+            <year>2004</year>
+    </song>
+
+    <song>
+            <title>El Güerro</title>
+            <artist>Grupo Firme</artist>
+            <genre>Corridos</genre>
+            <year>2019</year>
+    </song>
+
+    <song>
+            <title>Babilonia</title>
+            <artist>Morodo</artist>
+            <genre>Reggae</genre>
+            <year>2001</year>
+    </song>
+
+    <song>
+            <title>Pony Fly</title>
+            <artist>Matt Martians</artist>
+            <genre>Alternative R&amp;B</genre>
+            <year>2019</year>
+    </song>
+
+    <song>
+            <title>Lottery</title>
+            <artist>Kali Uchis</artist>
+            <genre>Doo Wop</genre>
+            <year>2015</year>
+    </song>
+
+    <song>
+            <title>Sitting in the Park</title>
+            <artist>Billy Stewart</artist>
+            <genre>R&amp;B/Soul</genre>
+            <year>1990</year>
+    </song>
+
+</setlist>
